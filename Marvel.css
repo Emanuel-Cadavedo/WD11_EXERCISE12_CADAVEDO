@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    background-color: black;
+}
+.navbar img{
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+nav .accordion{
+    padding: 15px;
+    float: left;
+}
+.card img{
+    height: 250px;
+}
+.footer a{
+    color: yellow;
+    padding: 10px;
+}
